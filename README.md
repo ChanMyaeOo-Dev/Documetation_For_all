@@ -34,3 +34,13 @@ npm run dev
 ```bash
 php artisan serve
 ```
+
+### 🚀 Example Username and password
+
+```bash
+admin@gmail.com
+```
+
+```bash
+password
+```
